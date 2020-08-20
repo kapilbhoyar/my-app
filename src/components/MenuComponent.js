@@ -61,7 +61,7 @@ class Menu extends Component {
             </Media>
             <Media body className='ml-5'>
               <Media heading>{dish.name}</Media>
-              <p>{dish.discription}</p>
+              <p>{dish.description}</p>
             </Media>
           </Media>
         </div>
